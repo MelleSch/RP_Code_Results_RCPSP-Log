@@ -1,0 +1,640 @@
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j1202_10.sm nv: 848445 nc: 1976437 enctime: 29.21
+encoding rcpsp/j120.sm/j1202_10.sm nv: 125950 nc: 288512 enctime: 2.16
+c File: j1202_10.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 96
+c CPU time: 63.223150
+s OPTIMUM FOUND
+
+c File: j1202_10.smor1000.wcnf
+c optimal
+c final solution cost: 96
+c CPU time: 2.997626
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_10.sm nv: 619114 nc: 1431910 enctime: 22.23
+encoding rcpsp/j120.sm/j12021_10.sm nv: 123625 nc: 282115 enctime: 2.11
+c File: j12021_10.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 103
+c CPU time: 64.086751
+s UNKNOWN
+
+c File: j12021_10.smor1000.wcnf
+c timeout
+c final solution cost: 102
+c CPU time: 60.280202
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_1.sm nv: 628694 nc: 1525783 enctime: 25.96
+encoding rcpsp/j120.sm/j12021_1.sm nv: 128986 nc: 308645 enctime: 2.38
+c File: j12021_1.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 117
+c CPU time: 65.075192
+s UNKNOWN
+
+c File: j12021_1.smor1000.wcnf
+c timeout
+c final solution cost: 117
+c CPU time: 60.335096
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_2.sm nv: 646550 nc: 1530027 enctime: 25.37
+encoding rcpsp/j120.sm/j12021_2.sm nv: 129310 nc: 302051 enctime: 1.53
+c File: j12021_2.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 120
+c CPU time: 64.731815
+s UNKNOWN
+
+c File: j12021_2.smor1000.wcnf
+c timeout
+c final solution cost: 118
+c CPU time: 60.308238
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_3.sm nv: 595615 nc: 1456941 enctime: 25.84
+encoding rcpsp/j120.sm/j12021_3.sm nv: 131978 nc: 318677 enctime: 2.52
+c File: j12021_3.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 197
+c CPU time: 65.049138
+s UNKNOWN
+
+c File: j12021_3.smor1000.wcnf
+c optimal
+c final solution cost: 143
+c CPU time: 9.875483
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_4.sm nv: 628898 nc: 1521701 enctime: 25.85
+encoding rcpsp/j120.sm/j12021_4.sm nv: 131546 nc: 313925 enctime: 2.34
+c File: j12021_4.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 136
+c CPU time: 64.889390
+s UNKNOWN
+
+c File: j12021_4.smor1000.wcnf
+c timeout
+c final solution cost: 137
+c CPU time: 60.358599
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_5.sm nv: 660264 nc: 1559580 enctime: 25.12
+encoding rcpsp/j120.sm/j12021_5.sm nv: 123000 nc: 286308 enctime: 2.17
+c File: j12021_5.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 217
+c CPU time: 65.060545
+s UNKNOWN
+
+c File: j12021_5.smor1000.wcnf
+c optimal
+c final solution cost: 110
+c CPU time: 3.410107
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_6.sm nv: 597535 nc: 1399222 enctime: 22.59
+encoding rcpsp/j120.sm/j12021_6.sm nv: 111038 nc: 256135 enctime: 2.02
+c File: j12021_6.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 109
+c CPU time: 61.828652
+s OPTIMUM FOUND
+
+c File: j12021_6.smor1000.wcnf
+c optimal
+c final solution cost: 109
+c CPU time: 23.049944
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_7.sm nv: 574336 nc: 1361818 enctime: 22.46
+encoding rcpsp/j120.sm/j12021_7.sm nv: 111104 nc: 259574 enctime: 1.95
+c File: j12021_7.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 114
+c CPU time: 64.518233
+s UNKNOWN
+
+c File: j12021_7.smor1000.wcnf
+c timeout
+c final solution cost: 113
+c CPU time: 60.268095
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_8.sm nv: 691446 nc: 1660683 enctime: 27.69
+encoding rcpsp/j120.sm/j12021_8.sm nv: 136920 nc: 324264 enctime: 2.51
+c File: j12021_8.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 127
+c CPU time: 13.256769
+s OPTIMUM FOUND
+
+c File: j12021_8.smor1000.wcnf
+c optimal
+c final solution cost: 127
+c CPU time: 1.308011
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12021_9.sm nv: 625100 nc: 1480802 enctime: 24.18
+encoding rcpsp/j120.sm/j12021_9.sm nv: 112100 nc: 261482 enctime: 2.07
+c File: j12021_9.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 102
+c CPU time: 15.801663
+s OPTIMUM FOUND
+
+c File: j12021_9.smor1000.wcnf
+c optimal
+c final solution cost: 102
+c CPU time: 3.441272
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j1202_1.sm nv: 712657 nc: 1591310 enctime: 20.91
+encoding rcpsp/j120.sm/j1202_1.sm nv: 109901 nc: 241626 enctime: 1.74
+c File: j1202_1.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 87
+c CPU time: 42.159315
+s OPTIMUM FOUND
+
+c File: j1202_1.smor1000.wcnf
+c optimal
+c final solution cost: 87
+c CPU time: 3.721209
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_10.sm nv: 773140 nc: 1724611 enctime: 24.70
+encoding rcpsp/j120.sm/j12022_10.sm nv: 108489 nc: 238074 enctime: 1.11
+c File: j12022_10.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 79
+c CPU time: 9.659126
+s OPTIMUM FOUND
+
+c File: j12022_10.smor1000.wcnf
+c optimal
+c final solution cost: 79
+c CPU time: 0.631402
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_1.sm nv: 646128 nc: 1500275 enctime: 23.09
+encoding rcpsp/j120.sm/j12022_1.sm nv: 115920 nc: 265227 enctime: 2.04
+c File: j12022_1.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 101
+c CPU time: 23.859749
+s OPTIMUM FOUND
+
+c File: j12022_1.smor1000.wcnf
+c optimal
+c final solution cost: 101
+c CPU time: 11.635361
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_2.sm nv: 840360 nc: 1951636 enctime: 30.32
+encoding rcpsp/j120.sm/j12022_2.sm nv: 141848 nc: 324900 enctime: 2.64
+c File: j12022_2.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 107
+c CPU time: 11.446555
+s OPTIMUM FOUND
+
+c File: j12022_2.smor1000.wcnf
+c optimal
+c final solution cost: 107
+c CPU time: 1.027585
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_3.sm nv: 727650 nc: 1691005 enctime: 26.45
+encoding rcpsp/j120.sm/j12022_3.sm nv: 117502 nc: 268647 enctime: 2.04
+c File: j12022_3.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 100
+c CPU time: 65.252720
+s UNKNOWN
+
+c File: j12022_3.smor1000.wcnf
+c timeout
+c final solution cost: 100
+c CPU time: 60.248643
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_4.sm nv: 801780 nc: 1853420 enctime: 28.47
+encoding rcpsp/j120.sm/j12022_4.sm nv: 117362 nc: 266654 enctime: 1.27
+c File: j12022_4.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 90
+c CPU time: 10.546389
+s OPTIMUM FOUND
+
+c File: j12022_4.smor1000.wcnf
+c optimal
+c final solution cost: 90
+c CPU time: 0.992036
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_5.sm nv: 756764 nc: 1760322 enctime: 27.64
+encoding rcpsp/j120.sm/j12022_5.sm nv: 118556 nc: 271362 enctime: 2.11
+c File: j12022_5.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 93
+c CPU time: 9.267790
+s OPTIMUM FOUND
+
+c File: j12022_5.smor1000.wcnf
+c optimal
+c final solution cost: 93
+c CPU time: 1.166417
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_6.sm nv: 639540 nc: 1487433 enctime: 23.32
+encoding rcpsp/j120.sm/j12022_6.sm nv: 118800 nc: 272373 enctime: 2.12
+c File: j12022_6.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 103
+c CPU time: 55.613339
+s OPTIMUM FOUND
+
+c File: j12022_6.smor1000.wcnf
+c optimal
+c final solution cost: 103
+c CPU time: 1.806683
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_7.sm nv: 667808 nc: 1559031 enctime: 24.65
+encoding rcpsp/j120.sm/j12022_7.sm nv: 144556 nc: 333655 enctime: 2.48
+c File: j12022_7.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 133
+c CPU time: 39.980634
+s OPTIMUM FOUND
+
+c File: j12022_7.smor1000.wcnf
+c optimal
+c final solution cost: 133
+c CPU time: 0.719526
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_8.sm nv: 789012 nc: 1847506 enctime: 29.09
+encoding rcpsp/j120.sm/j12022_8.sm nv: 122760 nc: 282769 enctime: 2.18
+c File: j12022_8.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 103
+c CPU time: 54.906489
+s OPTIMUM FOUND
+
+c File: j12022_8.smor1000.wcnf
+c optimal
+c final solution cost: 103
+c CPU time: 43.735301
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12022_9.sm nv: 793883 nc: 1847835 enctime: 28.45
+encoding rcpsp/j120.sm/j12022_9.sm nv: 138958 nc: 318910 enctime: 2.39
+c File: j12022_9.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 109
+c CPU time: 52.591312
+s OPTIMUM FOUND
+
+c File: j12022_9.smor1000.wcnf
+c optimal
+c final solution cost: 109
+c CPU time: 1.128345
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j1202_2.sm nv: 831129 nc: 1830625 enctime: 23.20
+encoding rcpsp/j120.sm/j1202_2.sm nv: 108979 nc: 236175 enctime: 1.09
+c File: j1202_2.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 75
+c CPU time: 12.206220
+s OPTIMUM FOUND
+
+c File: j1202_2.smor1000.wcnf
+c optimal
+c final solution cost: 75
+c CPU time: 3.071946
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_10.sm nv: 993345 nc: 2246175 enctime: 32.37
+encoding rcpsp/j120.sm/j12023_10.sm nv: 150763 nc: 336163 enctime: 1.61
+c File: j12023_10.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 100
+c CPU time: 11.962811
+s OPTIMUM FOUND
+
+c File: j12023_10.smor1000.wcnf
+c optimal
+c final solution cost: 100
+c CPU time: 0.469947
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_1.sm nv: 884925 nc: 1999675 enctime: 29.10
+encoding rcpsp/j120.sm/j12023_1.sm nv: 146832 nc: 327565 enctime: 2.49
+c File: j12023_1.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 107
+c CPU time: 7.271632
+s OPTIMUM FOUND
+
+c File: j12023_1.smor1000.wcnf
+c optimal
+c final solution cost: 107
+c CPU time: 0.481472
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_2.sm nv: 792576 nc: 1832938 enctime: 28.58
+encoding rcpsp/j120.sm/j12023_2.sm nv: 139392 nc: 317914 enctime: 1.57
+c File: j12023_2.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 116
+c CPU time: 6.151554
+s OPTIMUM FOUND
+
+c File: j12023_2.smor1000.wcnf
+c optimal
+c final solution cost: 116
+c CPU time: 0.514309
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_3.sm nv: 821690 nc: 1835502 enctime: 25.73
+encoding rcpsp/j120.sm/j12023_3.sm nv: 141046 nc: 311154 enctime: 1.53
+c File: j12023_3.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 99
+c CPU time: 5.734512
+s OPTIMUM FOUND
+
+c File: j12023_3.smor1000.wcnf
+c optimal
+c final solution cost: 99
+c CPU time: 0.470122
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_4.sm nv: 725934 nc: 1661131 enctime: 25.30
+encoding rcpsp/j120.sm/j12023_4.sm nv: 124542 nc: 280931 enctime: 2.20
+c File: j12023_4.smnaiveor1000.wcnf
+c timeout
+c final solution cost: 112
+c CPU time: 64.744206
+s UNKNOWN
+
+c File: j12023_4.smor1000.wcnf
+c optimal
+c final solution cost: 106
+c CPU time: 0.505176
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_5.sm nv: 880044 nc: 1993004 enctime: 28.59
+encoding rcpsp/j120.sm/j12023_5.sm nv: 137588 nc: 307320 enctime: 2.51
+c File: j12023_5.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 99
+c CPU time: 9.741614
+s OPTIMUM FOUND
+
+c File: j12023_5.smor1000.wcnf
+c optimal
+c final solution cost: 99
+c CPU time: 0.624065
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_6.sm nv: 866514 nc: 1983298 enctime: 30.14
+encoding rcpsp/j120.sm/j12023_6.sm nv: 149226 nc: 337082 enctime: 2.52
+c File: j12023_6.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 106
+c CPU time: 11.975933
+s OPTIMUM FOUND
+
+c File: j12023_6.smor1000.wcnf
+c optimal
+c final solution cost: 106
+c CPU time: 0.913541
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_7.sm nv: 785866 nc: 1770813 enctime: 25.88
+encoding rcpsp/j120.sm/j12023_7.sm nv: 136086 nc: 302713 enctime: 1.49
+c File: j12023_7.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 104
+c CPU time: 6.982806
+s OPTIMUM FOUND
+
+c File: j12023_7.smor1000.wcnf
+c optimal
+c final solution cost: 104
+c CPU time: 0.588948
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_8.sm nv: 766476 nc: 1696963 enctime: 22.85
+encoding rcpsp/j120.sm/j12023_8.sm nv: 137052 nc: 299731 enctime: 2.11
+c File: j12023_8.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 101
+c CPU time: 5.733424
+s OPTIMUM FOUND
+
+c File: j12023_8.smor1000.wcnf
+c optimal
+c final solution cost: 101
+c CPU time: 0.456315
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12023_9.sm nv: 758992 nc: 1733450 enctime: 25.74
+encoding rcpsp/j120.sm/j12023_9.sm nv: 143468 nc: 323650 enctime: 2.49
+c File: j12023_9.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 107
+c CPU time: 6.262828
+s OPTIMUM FOUND
+
+c File: j12023_9.smor1000.wcnf
+c optimal
+c final solution cost: 107
+c CPU time: 0.926262
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j1202_3.sm nv: 902574 nc: 2085739 enctime: 31.42
+encoding rcpsp/j120.sm/j1202_3.sm nv: 135753 nc: 308821 enctime: 2.41
+c File: j1202_3.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 92
+c CPU time: 41.797561
+s OPTIMUM FOUND
+
+c File: j1202_3.smor1000.wcnf
+c timeout
+c final solution cost: 92
+c CPU time: 60.278792
+s UNKNOWN
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12024_10.sm nv: 945888 nc: 2112523 enctime: 31.14
+encoding rcpsp/j120.sm/j12024_10.sm nv: 133104 nc: 292943 enctime: 1.44
+c File: j12024_10.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 91
+c CPU time: 8.018444
+s OPTIMUM FOUND
+
+c File: j12024_10.smor1000.wcnf
+c optimal
+c final solution cost: 91
+c CPU time: 0.548107
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12024_1.sm nv: 909930 nc: 1991834 enctime: 27.05
+encoding rcpsp/j120.sm/j12024_1.sm nv: 151410 nc: 327734 enctime: 1.64
+c File: j12024_1.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 93
+c CPU time: 6.773218
+s OPTIMUM FOUND
+
+c File: j12024_1.smor1000.wcnf
+c optimal
+c final solution cost: 93
+c CPU time: 0.446550
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12024_2.sm nv: 751998 nc: 1685867 enctime: 25.74
+encoding rcpsp/j120.sm/j12024_2.sm nv: 116064 nc: 256199 enctime: 2.09
+c File: j12024_2.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 91
+c CPU time: 6.036479
+s OPTIMUM FOUND
+
+c File: j12024_2.smor1000.wcnf
+c optimal
+c final solution cost: 91
+c CPU time: 0.387466
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12024_3.sm nv: 982640 nc: 2204826 enctime: 32.30
+encoding rcpsp/j120.sm/j12024_3.sm nv: 130640 nc: 288426 enctime: 2.35
+c File: j12024_3.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 89
+c CPU time: 7.059785
+s OPTIMUM FOUND
+
+c File: j12024_3.smor1000.wcnf
+c optimal
+c final solution cost: 89
+c CPU time: 0.435235
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12024_4.sm nv: 817160 nc: 1851326 enctime: 28.12
+encoding rcpsp/j120.sm/j12024_4.sm nv: 128960 nc: 287891 enctime: 1.43
+c File: j12024_4.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 101
+c CPU time: 7.197138
+s OPTIMUM FOUND
+
+c File: j12024_4.smor1000.wcnf
+c optimal
+c final solution cost: 101
+c CPU time: 0.410038
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_log_0/heurj120.txt
+encoding rcpsp/j120.sm/j12024_5.sm nv: 765765 nc: 1683753 enctime: 23.06
+encoding rcpsp/j120.sm/j12024_5.sm nv: 111969 nc: 242557 enctime: 1.85
+c File: j12024_5.smnaiveor1000.wcnf
+c optimal
+c final solution cost: 86
+c CPU time: 5.407308
+s OPTIMUM FOUND
+
+c File: j12024_5.smor1000.wcnf
+c optimal
+c final solution cost: 86
+c CPU time: 0.278699
+s OPTIMUM FOUND
+
+

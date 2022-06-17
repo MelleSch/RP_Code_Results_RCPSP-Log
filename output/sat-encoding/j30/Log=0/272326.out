@@ -1,0 +1,600 @@
+encoding rcpsp/j30.sm/j302_10.sm nv: 18544 nc: 45525 enctime: 0.28
+encoding rcpsp/j30.sm/j302_10.sm nv: 5490 nc: 12676 enctime: 0.06
+c File: j302_10.smnaive.wcnf
+c optimal
+c final solution cost: 43
+c CPU time: 0.136874
+s OPTIMUM FOUND
+
+c File: j302_10.sm.wcnf
+c optimal
+c final solution cost: 43
+c CPU time: 0.015044
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_10.sm nv: 58422 nc: 131052 enctime: 0.81
+encoding rcpsp/j30.sm/j3021_10.sm nv: 24396 nc: 53884 enctime: 0.34
+c File: j3021_10.smnaive.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.569903
+s OPTIMUM FOUND
+
+c File: j3021_10.sm.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.358924
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_1.sm nv: 55384 nc: 122847 enctime: 0.80
+encoding rcpsp/j30.sm/j3021_1.sm nv: 30912 nc: 67975 enctime: 0.39
+c File: j3021_1.smnaive.wcnf
+c optimal
+c final solution cost: 84
+c CPU time: 0.859459
+s OPTIMUM FOUND
+
+c File: j3021_1.sm.wcnf
+c optimal
+c final solution cost: 84
+c CPU time: 0.220063
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_2.sm nv: 50643 nc: 109113 enctime: 0.67
+encoding rcpsp/j30.sm/j3021_2.sm nv: 24494 nc: 52233 enctime: 0.30
+c File: j3021_2.smnaive.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.548472
+s OPTIMUM FOUND
+
+c File: j3021_2.sm.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.315288
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_3.sm nv: 48510 nc: 103040 enctime: 0.62
+encoding rcpsp/j30.sm/j3021_3.sm nv: 27060 nc: 57020 enctime: 0.32
+c File: j3021_3.smnaive.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.445403
+s OPTIMUM FOUND
+
+c File: j3021_3.sm.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.159586
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_4.sm nv: 53280 nc: 115192 enctime: 0.71
+encoding rcpsp/j30.sm/j3021_4.sm nv: 26307 nc: 56305 enctime: 0.39
+c File: j3021_4.smnaive.wcnf
+c optimal
+c final solution cost: 70
+c CPU time: 0.898054
+s OPTIMUM FOUND
+
+c File: j3021_4.sm.wcnf
+c optimal
+c final solution cost: 70
+c CPU time: 0.467628
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_5.sm nv: 58344 nc: 124667 enctime: 0.78
+encoding rcpsp/j30.sm/j3021_5.sm nv: 22440 nc: 47291 enctime: 0.28
+c File: j3021_5.smnaive.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.896441
+s OPTIMUM FOUND
+
+c File: j3021_5.sm.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.210280
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_6.sm nv: 53375 nc: 118908 enctime: 0.81
+encoding rcpsp/j30.sm/j3021_6.sm nv: 23790 nc: 52269 enctime: 0.27
+c File: j3021_6.smnaive.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 1.000663
+s OPTIMUM FOUND
+
+c File: j3021_6.sm.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.293535
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_7.sm nv: 48488 nc: 104363 enctime: 0.63
+encoding rcpsp/j30.sm/j3021_7.sm nv: 23925 nc: 50925 enctime: 0.37
+c File: j3021_7.smnaive.wcnf
+c optimal
+c final solution cost: 65
+c CPU time: 0.806434
+s OPTIMUM FOUND
+
+c File: j3021_7.sm.wcnf
+c optimal
+c final solution cost: 65
+c CPU time: 0.510441
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_8.sm nv: 50880 nc: 110023 enctime: 0.67
+encoding rcpsp/j30.sm/j3021_8.sm nv: 22896 nc: 48863 enctime: 0.26
+c File: j3021_8.smnaive.wcnf
+c optimal
+c final solution cost: 62
+c CPU time: 1.291586
+s OPTIMUM FOUND
+
+c File: j3021_8.sm.wcnf
+c optimal
+c final solution cost: 62
+c CPU time: 0.301358
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3021_9.sm nv: 48600 nc: 104183 enctime: 0.62
+encoding rcpsp/j30.sm/j3021_9.sm nv: 23328 nc: 49427 enctime: 0.27
+c File: j3021_9.smnaive.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.685790
+s OPTIMUM FOUND
+
+c File: j3021_9.sm.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.489420
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j302_1.sm nv: 21300 nc: 49841 enctime: 0.30
+encoding rcpsp/j30.sm/j302_1.sm nv: 5538 nc: 12212 enctime: 0.05
+c File: j302_1.smnaive.wcnf
+c optimal
+c final solution cost: 38
+c CPU time: 0.184366
+s OPTIMUM FOUND
+
+c File: j302_1.sm.wcnf
+c optimal
+c final solution cost: 38
+c CPU time: 0.012611
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_10.sm nv: 92625 nc: 199023 enctime: 1.25
+encoding rcpsp/j30.sm/j3022_10.sm nv: 28025 nc: 59079 enctime: 0.35
+c File: j3022_10.smnaive.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.503574
+s OPTIMUM FOUND
+
+c File: j3022_10.sm.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.100774
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_1.sm nv: 74400 nc: 152506 enctime: 0.96
+encoding rcpsp/j30.sm/j3022_1.sm nv: 21824 nc: 43962 enctime: 0.28
+c File: j3022_1.smnaive.wcnf
+c optimal
+c final solution cost: 42
+c CPU time: 0.315826
+s OPTIMUM FOUND
+
+c File: j3022_1.sm.wcnf
+c optimal
+c final solution cost: 42
+c CPU time: 0.064118
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_2.sm nv: 63798 nc: 130849 enctime: 0.76
+encoding rcpsp/j30.sm/j3022_2.sm nv: 19964 nc: 40252 enctime: 0.25
+c File: j3022_2.smnaive.wcnf
+c optimal
+c final solution cost: 45
+c CPU time: 0.206973
+s OPTIMUM FOUND
+
+c File: j3022_2.sm.wcnf
+c optimal
+c final solution cost: 45
+c CPU time: 0.041717
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_3.sm nv: 71750 nc: 154173 enctime: 0.98
+encoding rcpsp/j30.sm/j3022_3.sm nv: 29110 nc: 61717 enctime: 0.36
+c File: j3022_3.smnaive.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.203594
+s OPTIMUM FOUND
+
+c File: j3022_3.sm.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.083623
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_4.sm nv: 82810 nc: 171340 enctime: 1.12
+encoding rcpsp/j30.sm/j3022_4.sm nv: 21070 nc: 42568 enctime: 0.28
+c File: j3022_4.smnaive.wcnf
+c optimal
+c final solution cost: 42
+c CPU time: 0.435618
+s OPTIMUM FOUND
+
+c File: j3022_4.sm.wcnf
+c optimal
+c final solution cost: 42
+c CPU time: 0.048291
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_5.sm nv: 63336 nc: 134023 enctime: 0.80
+encoding rcpsp/j30.sm/j3022_5.sm nv: 23142 nc: 48289 enctime: 0.27
+c File: j3022_5.smnaive.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.205114
+s OPTIMUM FOUND
+
+c File: j3022_5.sm.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.052576
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_6.sm nv: 73095 nc: 153165 enctime: 1.02
+encoding rcpsp/j30.sm/j3022_6.sm nv: 26137 nc: 53949 enctime: 0.29
+c File: j3022_6.smnaive.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.291890
+s OPTIMUM FOUND
+
+c File: j3022_6.sm.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.105910
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_7.sm nv: 74772 nc: 162192 enctime: 1.02
+encoding rcpsp/j30.sm/j3022_7.sm nv: 24924 nc: 53072 enctime: 0.28
+c File: j3022_7.smnaive.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 0.657686
+s OPTIMUM FOUND
+
+c File: j3022_7.sm.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 0.099509
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_8.sm nv: 59840 nc: 127276 enctime: 0.91
+encoding rcpsp/j30.sm/j3022_8.sm nv: 21692 nc: 45370 enctime: 0.25
+c File: j3022_8.smnaive.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.527734
+s OPTIMUM FOUND
+
+c File: j3022_8.sm.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.152222
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3022_9.sm nv: 76184 nc: 163440 enctime: 1.02
+encoding rcpsp/j30.sm/j3022_9.sm nv: 32956 nc: 69914 enctime: 0.41
+c File: j3022_9.smnaive.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.302517
+s OPTIMUM FOUND
+
+c File: j3022_9.sm.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.076572
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j302_2.sm nv: 22568 nc: 59714 enctime: 0.39
+encoding rcpsp/j30.sm/j302_2.sm nv: 6448 nc: 16034 enctime: 0.06
+c File: j302_2.smnaive.wcnf
+c optimal
+c final solution cost: 51
+c CPU time: 0.209122
+s OPTIMUM FOUND
+
+c File: j302_2.sm.wcnf
+c optimal
+c final solution cost: 51
+c CPU time: 0.017882
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_10.sm nv: 71230 nc: 150954 enctime: 1.06
+encoding rcpsp/j30.sm/j3023_10.sm nv: 27235 nc: 56874 enctime: 0.34
+c File: j3023_10.smnaive.wcnf
+c optimal
+c final solution cost: 61
+c CPU time: 0.251394
+s OPTIMUM FOUND
+
+c File: j3023_10.sm.wcnf
+c optimal
+c final solution cost: 61
+c CPU time: 0.095565
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_1.sm nv: 80784 nc: 170047 enctime: 1.15
+encoding rcpsp/j30.sm/j3023_1.sm nv: 30753 nc: 63881 enctime: 0.33
+c File: j3023_1.smnaive.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.266122
+s OPTIMUM FOUND
+
+c File: j3023_1.sm.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.100389
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_2.sm nv: 70376 nc: 144350 enctime: 0.90
+encoding rcpsp/j30.sm/j3023_2.sm nv: 25002 nc: 50564 enctime: 0.34
+c File: j3023_2.smnaive.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.174021
+s OPTIMUM FOUND
+
+c File: j3023_2.sm.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.049046
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_3.sm nv: 70413 nc: 143809 enctime: 0.93
+encoding rcpsp/j30.sm/j3023_3.sm nv: 22513 nc: 45309 enctime: 0.24
+c File: j3023_3.smnaive.wcnf
+c optimal
+c final solution cost: 46
+c CPU time: 0.199762
+s OPTIMUM FOUND
+
+c File: j3023_3.sm.wcnf
+c optimal
+c final solution cost: 46
+c CPU time: 0.040477
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_4.sm nv: 72756 nc: 155059 enctime: 1.00
+encoding rcpsp/j30.sm/j3023_4.sm nv: 28764 nc: 60523 enctime: 0.34
+c File: j3023_4.smnaive.wcnf
+c optimal
+c final solution cost: 65
+c CPU time: 0.310450
+s OPTIMUM FOUND
+
+c File: j3023_4.sm.wcnf
+c optimal
+c final solution cost: 65
+c CPU time: 0.076877
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_5.sm nv: 72076 nc: 146849 enctime: 0.95
+encoding rcpsp/j30.sm/j3023_5.sm nv: 25811 nc: 51944 enctime: 0.28
+c File: j3023_5.smnaive.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.276388
+s OPTIMUM FOUND
+
+c File: j3023_5.sm.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.057143
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_6.sm nv: 72000 nc: 147462 enctime: 0.92
+encoding rcpsp/j30.sm/j3023_6.sm nv: 23850 nc: 48059 enctime: 0.35
+c File: j3023_6.smnaive.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.197060
+s OPTIMUM FOUND
+
+c File: j3023_6.sm.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.048776
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_7.sm nv: 62307 nc: 132022 enctime: 0.81
+encoding rcpsp/j30.sm/j3023_7.sm nv: 25542 nc: 53362 enctime: 0.31
+c File: j3023_7.smnaive.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 0.303036
+s OPTIMUM FOUND
+
+c File: j3023_7.sm.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 0.070363
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_8.sm nv: 76293 nc: 160887 enctime: 1.05
+encoding rcpsp/j30.sm/j3023_8.sm nv: 22932 nc: 47389 enctime: 0.27
+c File: j3023_8.smnaive.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.245470
+s OPTIMUM FOUND
+
+c File: j3023_8.sm.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.048980
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3023_9.sm nv: 86193 nc: 183516 enctime: 1.18
+encoding rcpsp/j30.sm/j3023_9.sm nv: 30144 nc: 63207 enctime: 0.38
+c File: j3023_9.smnaive.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.324582
+s OPTIMUM FOUND
+
+c File: j3023_9.sm.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.080584
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j302_3.sm nv: 29392 nc: 71525 enctime: 0.45
+encoding rcpsp/j30.sm/j302_3.sm nv: 7682 nc: 17705 enctime: 0.07
+c File: j302_3.smnaive.wcnf
+c optimal
+c final solution cost: 43
+c CPU time: 0.126781
+s OPTIMUM FOUND
+
+c File: j302_3.sm.wcnf
+c optimal
+c final solution cost: 43
+c CPU time: 0.015102
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3024_10.sm nv: 84270 nc: 171491 enctime: 1.12
+encoding rcpsp/j30.sm/j3024_10.sm nv: 28620 nc: 57461 enctime: 0.32
+c File: j3024_10.smnaive.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.286993
+s OPTIMUM FOUND
+
+c File: j3024_10.sm.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.052050
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3024_1.sm nv: 86400 nc: 175091 enctime: 1.11
+encoding rcpsp/j30.sm/j3024_1.sm nv: 29160 nc: 58279 enctime: 0.35
+c File: j3024_1.smnaive.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.218455
+s OPTIMUM FOUND
+
+c File: j3024_1.sm.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.048598
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3024_2.sm nv: 73000 nc: 148069 enctime: 0.96
+encoding rcpsp/j30.sm/j3024_2.sm nv: 29500 nc: 59242 enctime: 0.37
+c File: j3024_2.smnaive.wcnf
+c optimal
+c final solution cost: 58
+c CPU time: 0.217931
+s OPTIMUM FOUND
+
+c File: j3024_2.sm.wcnf
+c optimal
+c final solution cost: 58
+c CPU time: 0.060069
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3024_3.sm nv: 102124 nc: 222015 enctime: 1.64
+encoding rcpsp/j30.sm/j3024_3.sm nv: 33880 nc: 72414 enctime: 0.38
+c File: j3024_3.smnaive.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.315997
+s OPTIMUM FOUND
+
+c File: j3024_3.sm.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.061550
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3024_4.sm nv: 78045 nc: 160329 enctime: 1.06
+encoding rcpsp/j30.sm/j3024_4.sm nv: 25542 nc: 51660 enctime: 0.29
+c File: j3024_4.smnaive.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.239673
+s OPTIMUM FOUND
+
+c File: j3024_4.sm.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.059824
+s OPTIMUM FOUND
+
+
+encoding rcpsp/j30.sm/j3024_5.sm nv: 79846 nc: 165973 enctime: 1.02
+encoding rcpsp/j30.sm/j3024_5.sm nv: 25012 nc: 51175 enctime: 0.44
+c File: j3024_5.smnaive.wcnf
+c optimal
+c final solution cost: 51
+c CPU time: 0.200003
+s OPTIMUM FOUND
+
+c File: j3024_5.sm.wcnf
+c optimal
+c final solution cost: 51
+c CPU time: 0.040818
+s OPTIMUM FOUND
+
+

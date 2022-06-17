@@ -1,0 +1,639 @@
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j1202_10.sm nv: 848445 nc: 2022020 enctime: 44.63
+encoding rcpsp/j120.sm/j1202_10.sm nv: 105340 nc: 246356 enctime: 2.63
+c File: j1202_10.smnaiveor1.wcnf
+c timeout
+c final solution cost: 225
+c CPU time: 68.947791
+s UNKNOWN
+
+c File: j1202_10.smor1.wcnf
+c timeout
+c final solution cost: 87
+c CPU time: 60.302617
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_10.sm nv: 619114 nc: 1447429 enctime: 32.17
+encoding rcpsp/j120.sm/j12021_10.sm nv: 89999 nc: 206764 enctime: 2.40
+c File: j12021_10.smnaiveor1.wcnf
+c timeout
+c final solution cost: 82
+c CPU time: 67.349389
+s UNKNOWN
+
+c File: j12021_10.smor1.wcnf
+c timeout
+c final solution cost: 84
+c CPU time: 60.246573
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_1.sm nv: 628694 nc: 1543065 enctime: 44.17
+encoding rcpsp/j120.sm/j12021_1.sm nv: 104632 nc: 252664 enctime: 3.19
+c File: j12021_1.smnaiveor1.wcnf
+c timeout
+c final solution cost: 96
+c CPU time: 68.398486
+s UNKNOWN
+
+c File: j12021_1.smor1.wcnf
+c timeout
+c final solution cost: 98
+c CPU time: 60.364496
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_2.sm nv: 646550 nc: 1546627 enctime: 37.53
+encoding rcpsp/j120.sm/j12021_2.sm nv: 109045 nc: 257172 enctime: 1.52
+c File: j12021_2.smnaiveor1.wcnf
+c timeout
+c final solution cost: 248
+c CPU time: 68.064796
+s UNKNOWN
+
+c File: j12021_2.smor1.wcnf
+c timeout
+c final solution cost: 100
+c CPU time: 60.373482
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_3.sm nv: 595615 nc: 1474130 enctime: 42.19
+encoding rcpsp/j120.sm/j12021_3.sm nv: 101983 nc: 248402 enctime: 3.27
+c File: j12021_3.smnaiveor1.wcnf
+c timeout
+c final solution cost: 112
+c CPU time: 68.132869
+s UNKNOWN
+
+c File: j12021_3.smor1.wcnf
+c timeout
+c final solution cost: 112
+c CPU time: 60.322976
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_4.sm nv: 628898 nc: 1539081 enctime: 44.67
+encoding rcpsp/j120.sm/j12021_4.sm nv: 118932 nc: 287089 enctime: 3.50
+c File: j12021_4.smnaiveor1.wcnf
+c timeout
+c final solution cost: 121
+c CPU time: 68.015117
+s UNKNOWN
+
+c File: j12021_4.smor1.wcnf
+c timeout
+c final solution cost: 119
+c CPU time: 60.391982
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_5.sm nv: 660264 nc: 1576238 enctime: 42.87
+encoding rcpsp/j120.sm/j12021_5.sm nv: 108240 nc: 254522 enctime: 1.46
+c File: j12021_5.smnaiveor1.wcnf
+c timeout
+c final solution cost: 128
+c CPU time: 67.412989
+s UNKNOWN
+
+c File: j12021_5.smor1.wcnf
+c timeout
+c final solution cost: 94
+c CPU time: 60.304317
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_6.sm nv: 597535 nc: 1415007 enctime: 32.82
+encoding rcpsp/j120.sm/j12021_6.sm nv: 95982 nc: 223752 enctime: 2.03
+c File: j12021_6.smnaiveor1.wcnf
+c timeout
+c final solution cost: 101
+c CPU time: 66.965811
+s UNKNOWN
+
+c File: j12021_6.smor1.wcnf
+c timeout
+c CPU time: 60.243650
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_7.sm nv: 574336 nc: 1377748 enctime: 32.71
+encoding rcpsp/j120.sm/j12021_7.sm nv: 96768 nc: 228600 enctime: 2.51
+c File: j12021_7.smnaiveor1.wcnf
+c timeout
+c final solution cost: 99
+c CPU time: 66.832488
+s UNKNOWN
+
+c File: j12021_7.smor1.wcnf
+c timeout
+c final solution cost: 100
+c CPU time: 60.274973
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_8.sm nv: 691446 nc: 1678263 enctime: 37.45
+encoding rcpsp/j120.sm/j12021_8.sm nv: 116382 nc: 278235 enctime: 1.54
+c File: j12021_8.smnaiveor1.wcnf
+c timeout
+c final solution cost: 96
+c CPU time: 68.295611
+s UNKNOWN
+
+c File: j12021_8.smor1.wcnf
+c timeout
+c final solution cost: 97
+c CPU time: 60.411009
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12021_9.sm nv: 625100 nc: 1497155 enctime: 34.32
+encoding rcpsp/j120.sm/j12021_9.sm nv: 93100 nc: 219235 enctime: 3.08
+c File: j12021_9.smnaiveor1.wcnf
+c timeout
+c final solution cost: 91
+c CPU time: 67.674528
+s UNKNOWN
+
+c File: j12021_9.smor1.wcnf
+c timeout
+c final solution cost: 90
+c CPU time: 60.314559
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j1202_1.sm nv: 712657 nc: 1629998 enctime: 34.26
+encoding rcpsp/j120.sm/j1202_1.sm nv: 108768 nc: 245264 enctime: 2.17
+c File: j1202_1.smnaiveor1.wcnf
+c timeout
+c final solution cost: 101
+c CPU time: 66.080780
+s UNKNOWN
+
+c File: j1202_1.smor1.wcnf
+c timeout
+c final solution cost: 87
+c CPU time: 60.250862
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_10.sm nv: 773140 nc: 1739983 enctime: 38.92
+encoding rcpsp/j120.sm/j12022_10.sm nv: 91031 nc: 201272 enctime: 1.05
+c File: j12022_10.smnaiveor1.wcnf
+c timeout
+c final solution cost: 218
+c CPU time: 67.203930
+s UNKNOWN
+
+c File: j12022_10.smor1.wcnf
+c optimal
+c final solution cost: 65
+c CPU time: 4.442225
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_1.sm nv: 646128 nc: 1516176 enctime: 35.92
+encoding rcpsp/j120.sm/j12022_1.sm nv: 90720 nc: 209204 enctime: 1.11
+c File: j12022_1.smnaiveor1.wcnf
+c timeout
+c final solution cost: 78
+c CPU time: 67.102295
+s UNKNOWN
+
+c File: j12022_1.smor1.wcnf
+c timeout
+c final solution cost: 77
+c CPU time: 60.264806
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_2.sm nv: 840360 nc: 1969102 enctime: 48.89
+encoding rcpsp/j120.sm/j12022_2.sm nv: 115624 nc: 266702 enctime: 1.43
+c File: j12022_2.smnaiveor1.wcnf
+c timeout
+c final solution cost: 82
+c CPU time: 68.468861
+s UNKNOWN
+
+c File: j12022_2.smor1.wcnf
+c timeout
+c final solution cost: 83
+c CPU time: 60.298476
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_3.sm nv: 727650 nc: 1707755 enctime: 37.55
+encoding rcpsp/j120.sm/j12022_3.sm nv: 111034 nc: 256591 enctime: 3.44
+c File: j12022_3.smnaiveor1.wcnf
+c timeout
+c final solution cost: 223
+c CPU time: 67.703080
+s UNKNOWN
+
+c File: j12022_3.smor1.wcnf
+c timeout
+c final solution cost: 85
+c CPU time: 60.289337
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_4.sm nv: 801780 nc: 1870469 enctime: 45.62
+encoding rcpsp/j120.sm/j12022_4.sm nv: 102256 nc: 234233 enctime: 1.16
+c File: j12022_4.smnaiveor1.wcnf
+c timeout
+c final solution cost: 72
+c CPU time: 68.429919
+s UNKNOWN
+
+c File: j12022_4.smor1.wcnf
+c timeout
+c final solution cost: 74
+c CPU time: 60.253234
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_5.sm nv: 756764 nc: 1777283 enctime: 44.53
+encoding rcpsp/j120.sm/j12022_5.sm nv: 93072 nc: 214492 enctime: 2.60
+c File: j12022_5.smnaiveor1.wcnf
+c timeout
+c final solution cost: 77
+c CPU time: 67.873553
+s UNKNOWN
+
+c File: j12022_5.smor1.wcnf
+c timeout
+c final solution cost: 78
+c CPU time: 60.257566
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_6.sm nv: 639540 nc: 1503445 enctime: 36.16
+encoding rcpsp/j120.sm/j12022_6.sm nv: 97020 nc: 224413 enctime: 2.99
+c File: j12022_6.smnaiveor1.wcnf
+c timeout
+c final solution cost: 222
+c CPU time: 67.991455
+s UNKNOWN
+
+c File: j12022_6.smor1.wcnf
+c timeout
+c final solution cost: 83
+c CPU time: 60.296550
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_7.sm nv: 667808 nc: 1575313 enctime: 38.87
+encoding rcpsp/j120.sm/j12022_7.sm nv: 98746 nc: 229241 enctime: 1.19
+c File: j12022_7.smnaiveor1.wcnf
+c timeout
+c final solution cost: 82
+c CPU time: 67.495914
+s UNKNOWN
+
+c File: j12022_7.smor1.wcnf
+c timeout
+c final solution cost: 82
+c CPU time: 60.244710
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_8.sm nv: 789012 nc: 1865009 enctime: 44.85
+encoding rcpsp/j120.sm/j12022_8.sm nv: 102672 nc: 238334 enctime: 2.99
+c File: j12022_8.smnaiveor1.wcnf
+c timeout
+c final solution cost: 506
+c CPU time: 68.676334
+s UNKNOWN
+
+c File: j12022_8.smor1.wcnf
+c timeout
+c final solution cost: 81
+c CPU time: 60.291560
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12022_9.sm nv: 793883 nc: 1865129 enctime: 39.39
+encoding rcpsp/j120.sm/j12022_9.sm nv: 113900 nc: 263378 enctime: 2.65
+c File: j12022_9.smnaiveor1.wcnf
+c timeout
+c final solution cost: 85
+c CPU time: 68.587479
+s UNKNOWN
+
+c File: j12022_9.smor1.wcnf
+c timeout
+c final solution cost: 85
+c CPU time: 60.307299
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j1202_2.sm nv: 831129 nc: 1869520 enctime: 35.81
+encoding rcpsp/j120.sm/j1202_2.sm nv: 97162 nc: 214880 enctime: 1.11
+c File: j1202_2.smnaiveor1.wcnf
+c timeout
+c final solution cost: 66
+c CPU time: 67.117449
+s UNKNOWN
+
+c File: j1202_2.smor1.wcnf
+c timeout
+c final solution cost: 67
+c CPU time: 60.238897
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_10.sm nv: 993345 nc: 2263656 enctime: 52.88
+encoding rcpsp/j120.sm/j12023_10.sm nv: 101448 nc: 226662 enctime: 1.14
+c File: j12023_10.smnaiveor1.wcnf
+c timeout
+c final solution cost: 68
+c CPU time: 68.992583
+s UNKNOWN
+
+c File: j12023_10.smor1.wcnf
+c timeout
+c final solution cost: 67
+c CPU time: 60.211518
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_1.sm nv: 884925 nc: 2016414 enctime: 37.62
+encoding rcpsp/j120.sm/j12023_1.sm nv: 95703 nc: 214026 enctime: 2.05
+c File: j12023_1.smnaiveor1.wcnf
+c timeout
+c final solution cost: 70
+c CPU time: 67.695238
+s UNKNOWN
+
+c File: j12023_1.smor1.wcnf
+c timeout
+c final solution cost: 70
+c CPU time: 60.194088
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_2.sm nv: 792576 nc: 1850065 enctime: 41.67
+encoding rcpsp/j120.sm/j12023_2.sm nv: 108288 nc: 248641 enctime: 1.32
+c File: j12023_2.smnaiveor1.wcnf
+c timeout
+c final solution cost: 85
+c CPU time: 68.533260
+s UNKNOWN
+
+c File: j12023_2.smor1.wcnf
+c timeout
+c final solution cost: 84
+c CPU time: 60.303667
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_3.sm nv: 821690 nc: 1851262 enctime: 43.30
+encoding rcpsp/j120.sm/j12023_3.sm nv: 85404 nc: 188644 enctime: 0.99
+c File: j12023_3.smnaiveor1.wcnf
+c timeout
+c final solution cost: 261
+c CPU time: 67.127088
+s UNKNOWN
+
+c File: j12023_3.smor1.wcnf
+c timeout
+c final solution cost: 60
+c CPU time: 60.189399
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_4.sm nv: 725934 nc: 1677207 enctime: 41.79
+encoding rcpsp/j120.sm/j12023_4.sm nv: 92004 nc: 208772 enctime: 1.98
+c File: j12023_4.smnaiveor1.wcnf
+c timeout
+c final solution cost: 74
+c CPU time: 67.891942
+s UNKNOWN
+
+c File: j12023_4.smor1.wcnf
+c timeout
+c final solution cost: 72
+c CPU time: 60.247886
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_5.sm nv: 880044 nc: 2009807 enctime: 49.44
+encoding rcpsp/j120.sm/j12023_5.sm nv: 86966 nc: 194526 enctime: 2.32
+c File: j12023_5.smnaiveor1.wcnf
+c timeout
+c final solution cost: 163
+c CPU time: 69.624045
+s UNKNOWN
+
+c File: j12023_5.smor1.wcnf
+c timeout
+c final solution cost: 64
+c CPU time: 60.237369
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_6.sm nv: 866514 nc: 2000406 enctime: 48.63
+encoding rcpsp/j120.sm/j12023_6.sm nv: 112860 nc: 256304 enctime: 3.72
+c File: j12023_6.smnaiveor1.wcnf
+c timeout
+c final solution cost: 230
+c CPU time: 69.357294
+s UNKNOWN
+
+c File: j12023_6.smor1.wcnf
+c timeout
+c final solution cost: 76
+c CPU time: 60.328624
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_7.sm nv: 785866 nc: 1786708 enctime: 44.72
+encoding rcpsp/j120.sm/j12023_7.sm nv: 87046 nc: 194128 enctime: 1.03
+c File: j12023_7.smnaiveor1.wcnf
+c timeout
+c final solution cost: 73
+c CPU time: 67.702381
+s UNKNOWN
+
+c File: j12023_7.smor1.wcnf
+c timeout
+c final solution cost: 64
+c CPU time: 60.229708
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_8.sm nv: 766476 nc: 1711935 enctime: 36.91
+encoding rcpsp/j120.sm/j12023_8.sm nv: 83754 nc: 183477 enctime: 1.83
+c File: j12023_8.smnaiveor1.wcnf
+c timeout
+c final solution cost: 91
+c CPU time: 66.879248
+s UNKNOWN
+
+c File: j12023_8.smor1.wcnf
+c timeout
+c final solution cost: 60
+c CPU time: 60.215863
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12023_9.sm nv: 758992 nc: 1749687 enctime: 45.91
+encoding rcpsp/j120.sm/j12023_9.sm nv: 90246 nc: 204115 enctime: 2.88
+c File: j12023_9.smnaiveor1.wcnf
+c timeout
+c final solution cost: 265
+c CPU time: 67.681860
+s UNKNOWN
+
+c File: j12023_9.smor1.wcnf
+c optimal
+c final solution cost: 70
+c CPU time: 58.731841
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j1202_3.sm nv: 902574 nc: 2131081 enctime: 53.27
+encoding rcpsp/j120.sm/j1202_3.sm nv: 118631 nc: 275386 enctime: 3.45
+c File: j1202_3.smnaiveor1.wcnf
+c optimal
+c final solution cost: 82
+c CPU time: 55.024365
+s OPTIMUM FOUND
+
+c File: j1202_3.smor1.wcnf
+c optimal
+c final solution cost: 82
+c CPU time: 14.239859
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12024_10.sm nv: 945888 nc: 2129059 enctime: 48.24
+encoding rcpsp/j120.sm/j12024_10.sm nv: 106200 nc: 235017 enctime: 1.27
+c File: j12024_10.smnaiveor1.wcnf
+c timeout
+c final solution cost: 67
+c CPU time: 68.529047
+s UNKNOWN
+
+c File: j12024_10.smor1.wcnf
+c timeout
+c final solution cost: 68
+c CPU time: 60.286007
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12024_1.sm nv: 909930 nc: 2007143 enctime: 47.97
+encoding rcpsp/j120.sm/j12024_1.sm nv: 92610 nc: 200699 enctime: 1.05
+c File: j12024_1.smnaiveor1.wcnf
+c timeout
+c final solution cost: 56
+c CPU time: 67.040560
+s UNKNOWN
+
+c File: j12024_1.smor1.wcnf
+c timeout
+c final solution cost: 55
+c CPU time: 60.207183
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12024_2.sm nv: 751998 nc: 1701261 enctime: 39.67
+encoding rcpsp/j120.sm/j12024_2.sm nv: 89466 nc: 198645 enctime: 3.26
+c File: j12024_2.smnaiveor1.wcnf
+c timeout
+c final solution cost: 69
+c CPU time: 67.758547
+s UNKNOWN
+
+c File: j12024_2.smor1.wcnf
+c timeout
+c final solution cost: 68
+c CPU time: 60.253541
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12024_3.sm nv: 982640 nc: 2222003 enctime: 52.01
+encoding rcpsp/j120.sm/j12024_3.sm nv: 107920 nc: 239715 enctime: 1.28
+c File: j12024_3.smnaiveor1.wcnf
+c timeout
+c final solution cost: 66
+c CPU time: 68.532463
+s UNKNOWN
+
+c File: j12024_3.smor1.wcnf
+c timeout
+c final solution cost: 67
+c CPU time: 60.269255
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12024_4.sm nv: 817160 nc: 1867709 enctime: 47.61
+encoding rcpsp/j120.sm/j12024_4.sm nv: 101680 nc: 228452 enctime: 1.21
+c File: j12024_4.smnaiveor1.wcnf
+c timeout
+c final solution cost: 435
+c CPU time: 68.332091
+s UNKNOWN
+
+c File: j12024_4.smor1.wcnf
+c timeout
+c final solution cost: 75
+c CPU time: 60.247663
+s UNKNOWN
+
+
+rcpsp/heur_output_or_constraints/Log=1/heurj120.txt
+encoding rcpsp/j120.sm/j12024_5.sm nv: 765765 nc: 1698519 enctime: 37.58
+encoding rcpsp/j120.sm/j12024_5.sm nv: 97812 nc: 213660 enctime: 2.64
+c File: j12024_5.smnaiveor1.wcnf
+c timeout
+c final solution cost: 63
+c CPU time: 66.104685
+s UNKNOWN
+
+c File: j12024_5.smor1.wcnf
+c timeout
+c final solution cost: 65
+c CPU time: 60.223434
+s UNKNOWN
+
+

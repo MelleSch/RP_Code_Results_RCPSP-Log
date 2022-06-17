@@ -1,0 +1,640 @@
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_1.sm nv: 88236 nc: 190101 enctime: 1.22
+encoding rcpsp/j30.sm/j3039_1.sm nv: 34371 nc: 73236 enctime: 0.39
+c File: j3039_1.smnaivebi5.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.267484
+s OPTIMUM FOUND
+
+c File: j3039_1.smbi5.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.076055
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_2.sm nv: 66825 nc: 148043 enctime: 0.97
+encoding rcpsp/j30.sm/j3039_2.sm nv: 29160 nc: 63878 enctime: 0.35
+c File: j3039_2.smnaivebi5.wcnf
+c optimal
+c final solution cost: 54
+c CPU time: 0.213493
+s OPTIMUM FOUND
+
+c File: j3039_2.smbi5.wcnf
+c optimal
+c final solution cost: 54
+c CPU time: 0.063893
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_3.sm nv: 79292 nc: 174550 enctime: 1.08
+encoding rcpsp/j30.sm/j3039_3.sm nv: 33653 nc: 73273 enctime: 0.44
+c File: j3039_3.smnaivebi5.wcnf
+c optimal
+c final solution cost: 54
+c CPU time: 0.306586
+s OPTIMUM FOUND
+
+c File: j3039_3.smbi5.wcnf
+c optimal
+c final solution cost: 54
+c CPU time: 0.116117
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_4.sm nv: 81984 nc: 181858 enctime: 1.16
+encoding rcpsp/j30.sm/j3039_4.sm nv: 32704 nc: 71638 enctime: 0.44
+c File: j3039_4.smnaivebi5.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.271426
+s OPTIMUM FOUND
+
+c File: j3039_4.smbi5.wcnf
+c optimal
+c final solution cost: 53
+c CPU time: 0.078232
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_5.sm nv: 76230 nc: 165679 enctime: 1.03
+encoding rcpsp/j30.sm/j3039_5.sm nv: 25872 nc: 55371 enctime: 0.29
+c File: j3039_5.smnaivebi5.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.234121
+s OPTIMUM FOUND
+
+c File: j3039_5.smbi5.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.046696
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_6.sm nv: 83536 nc: 187977 enctime: 1.22
+encoding rcpsp/j30.sm/j3039_6.sm nv: 35412 nc: 78797 enctime: 0.49
+c File: j3039_6.smnaivebi5.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.302582
+s OPTIMUM FOUND
+
+c File: j3039_6.smbi5.wcnf
+c optimal
+c final solution cost: 69
+c CPU time: 0.091889
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_7.sm nv: 50820 nc: 108545 enctime: 0.67
+encoding rcpsp/j30.sm/j3039_7.sm nv: 22330 nc: 47199 enctime: 0.26
+c File: j3039_7.smnaivebi5.wcnf
+c optimal
+c final solution cost: 50
+c CPU time: 0.896026
+s OPTIMUM FOUND
+
+c File: j3039_7.smbi5.wcnf
+c optimal
+c final solution cost: 50
+c CPU time: 0.074011
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_8.sm nv: 96279 nc: 214828 enctime: 1.43
+encoding rcpsp/j30.sm/j3039_8.sm nv: 34009 nc: 74818 enctime: 0.40
+c File: j3039_8.smnaivebi5.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.305670
+s OPTIMUM FOUND
+
+c File: j3039_8.smbi5.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.073209
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3039_9.sm nv: 84606 nc: 185099 enctime: 1.20
+encoding rcpsp/j30.sm/j3039_9.sm nv: 45888 nc: 99725 enctime: 0.56
+c File: j3039_9.smnaivebi5.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 2.284270
+s OPTIMUM FOUND
+
+c File: j3039_9.smbi5.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 0.312072
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j303_9.sm nv: 20670 nc: 55627 enctime: 0.39
+encoding rcpsp/j30.sm/j303_9.sm nv: 8710 nc: 22783 enctime: 0.10
+c File: j303_9.smnaivebi5.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.108971
+s OPTIMUM FOUND
+
+c File: j303_9.smbi5.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.028079
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_10.sm nv: 88247 nc: 191577 enctime: 1.25
+encoding rcpsp/j30.sm/j3040_10.sm nv: 29580 nc: 63295 enctime: 0.34
+c File: j3040_10.smnaivebi5.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.307704
+s OPTIMUM FOUND
+
+c File: j3040_10.smbi5.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.068316
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_1.sm nv: 78752 nc: 174611 enctime: 1.13
+encoding rcpsp/j30.sm/j3040_1.sm nv: 25252 nc: 54986 enctime: 0.29
+c File: j3040_1.smnaivebi5.wcnf
+c optimal
+c final solution cost: 51
+c CPU time: 0.269811
+s OPTIMUM FOUND
+
+c File: j3040_1.smbi5.wcnf
+c optimal
+c final solution cost: 51
+c CPU time: 0.053584
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_2.sm nv: 82560 nc: 178562 enctime: 1.16
+encoding rcpsp/j30.sm/j3040_2.sm nv: 27840 nc: 59318 enctime: 0.32
+c File: j3040_2.smnaivebi5.wcnf
+c optimal
+c final solution cost: 49
+c CPU time: 0.263046
+s OPTIMUM FOUND
+
+c File: j3040_2.smbi5.wcnf
+c optimal
+c final solution cost: 49
+c CPU time: 0.060181
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_3.sm nv: 96117 nc: 201049 enctime: 1.24
+encoding rcpsp/j30.sm/j3040_3.sm nv: 31641 nc: 65293 enctime: 0.35
+c File: j3040_3.smnaivebi5.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.248200
+s OPTIMUM FOUND
+
+c File: j3040_3.smbi5.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.053884
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_4.sm nv: 86768 nc: 189728 enctime: 1.24
+encoding rcpsp/j30.sm/j3040_4.sm nv: 29087 nc: 62666 enctime: 0.35
+c File: j3040_4.smnaivebi5.wcnf
+c optimal
+c final solution cost: 57
+c CPU time: 0.348442
+s OPTIMUM FOUND
+
+c File: j3040_4.smbi5.wcnf
+c optimal
+c final solution cost: 57
+c CPU time: 0.067345
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_5.sm nv: 82948 nc: 181728 enctime: 1.17
+encoding rcpsp/j30.sm/j3040_5.sm nv: 35416 nc: 76770 enctime: 0.47
+c File: j3040_5.smnaivebi5.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.252717
+s OPTIMUM FOUND
+
+c File: j3040_5.smbi5.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.076420
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_6.sm nv: 80995 nc: 175548 enctime: 1.09
+encoding rcpsp/j30.sm/j3040_6.sm nv: 29585 nc: 63294 enctime: 0.39
+c File: j3040_6.smnaivebi5.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.254013
+s OPTIMUM FOUND
+
+c File: j3040_6.smbi5.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.068806
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_7.sm nv: 91872 nc: 195309 enctime: 1.26
+encoding rcpsp/j30.sm/j3040_7.sm nv: 26928 nc: 56319 enctime: 0.31
+c File: j3040_7.smnaivebi5.wcnf
+c optimal
+c final solution cost: 46
+c CPU time: 0.258077
+s OPTIMUM FOUND
+
+c File: j3040_7.smbi5.wcnf
+c optimal
+c final solution cost: 46
+c CPU time: 0.049666
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_8.sm nv: 83304 nc: 181391 enctime: 1.19
+encoding rcpsp/j30.sm/j3040_8.sm nv: 29484 nc: 63286 enctime: 0.34
+c File: j3040_8.smnaivebi5.wcnf
+c optimal
+c final solution cost: 57
+c CPU time: 0.254008
+s OPTIMUM FOUND
+
+c File: j3040_8.smbi5.wcnf
+c optimal
+c final solution cost: 57
+c CPU time: 0.059878
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3040_9.sm nv: 87420 nc: 193368 enctime: 1.29
+encoding rcpsp/j30.sm/j3040_9.sm nv: 33945 nc: 74113 enctime: 0.40
+c File: j3040_9.smnaivebi5.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.267866
+s OPTIMUM FOUND
+
+c File: j3040_9.smbi5.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.074409
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j304_10.sm nv: 23542 nc: 60715 enctime: 0.41
+encoding rcpsp/j30.sm/j304_10.sm nv: 9089 nc: 22788 enctime: 0.10
+c File: j304_10.smnaivebi5.wcnf
+c optimal
+c final solution cost: 42
+c CPU time: 0.109036
+s OPTIMUM FOUND
+
+c File: j304_10.smbi5.wcnf
+c optimal
+c final solution cost: 42
+c CPU time: 0.024346
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_10.sm nv: 100096 nc: 220175 enctime: 1.41
+encoding rcpsp/j30.sm/j3041_10.sm nv: 71808 nc: 157515 enctime: 1.01
+c File: j3041_10.smnaivebi5.wcnf
+c timeout
+c final solution cost: 98
+c CPU time: 60.241572
+s UNKNOWN
+
+c File: j3041_10.smbi5.wcnf
+c timeout
+c final solution cost: 98
+c CPU time: 60.152835
+s UNKNOWN
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_1.sm nv: 93879 nc: 204416 enctime: 1.25
+encoding rcpsp/j30.sm/j3041_1.sm nv: 65880 nc: 143063 enctime: 0.90
+c File: j3041_1.smnaivebi5.wcnf
+c optimal
+c final solution cost: 86
+c CPU time: 2.448046
+s OPTIMUM FOUND
+
+c File: j3041_1.smbi5.wcnf
+c optimal
+c final solution cost: 86
+c CPU time: 1.429241
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_2.sm nv: 99932 nc: 214236 enctime: 1.34
+encoding rcpsp/j30.sm/j3041_2.sm nv: 69230 nc: 148038 enctime: 0.86
+c File: j3041_2.smnaivebi5.wcnf
+c optimal
+c final solution cost: 82
+c CPU time: 9.518491
+s OPTIMUM FOUND
+
+c File: j3041_2.smbi5.wcnf
+c optimal
+c final solution cost: 82
+c CPU time: 21.190557
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_3.sm nv: 83468 nc: 179663 enctime: 1.09
+encoding rcpsp/j30.sm/j3041_3.sm nv: 59620 nc: 128007 enctime: 0.81
+c File: j3041_3.smnaivebi5.wcnf
+c optimal
+c final solution cost: 84
+c CPU time: 3.273644
+s OPTIMUM FOUND
+
+c File: j3041_3.smbi5.wcnf
+c optimal
+c final solution cost: 84
+c CPU time: 2.858451
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_4.sm nv: 93024 nc: 197440 enctime: 1.18
+encoding rcpsp/j30.sm/j3041_4.sm nv: 72960 nc: 154606 enctime: 0.97
+c File: j3041_4.smnaivebi5.wcnf
+c optimal
+c final solution cost: 74
+c CPU time: 2.713397
+s OPTIMUM FOUND
+
+c File: j3041_4.smbi5.wcnf
+c optimal
+c final solution cost: 74
+c CPU time: 4.054101
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_5.sm nv: 117537 nc: 261174 enctime: 1.69
+encoding rcpsp/j30.sm/j3041_5.sm nv: 66585 nc: 147214 enctime: 0.88
+c File: j3041_5.smnaivebi5.wcnf
+c optimal
+c final solution cost: 99
+c CPU time: 4.922344
+s OPTIMUM FOUND
+
+c File: j3041_5.smbi5.wcnf
+c optimal
+c final solution cost: 99
+c CPU time: 3.759913
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_6.sm nv: 76908 nc: 167018 enctime: 1.01
+encoding rcpsp/j30.sm/j3041_6.sm nv: 56695 nc: 122820 enctime: 0.73
+c File: j3041_6.smnaivebi5.wcnf
+c timeout
+c final solution cost: 103
+c CPU time: 60.183715
+s UNKNOWN
+
+c File: j3041_6.smbi5.wcnf
+c timeout
+c final solution cost: 103
+c CPU time: 60.116791
+s UNKNOWN
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_7.sm nv: 105014 nc: 229186 enctime: 1.46
+encoding rcpsp/j30.sm/j3041_7.sm nv: 78472 nc: 170904 enctime: 1.10
+c File: j3041_7.smnaivebi5.wcnf
+c optimal
+c final solution cost: 91
+c CPU time: 11.394854
+s OPTIMUM FOUND
+
+c File: j3041_7.smbi5.wcnf
+c optimal
+c final solution cost: 91
+c CPU time: 11.616547
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_8.sm nv: 114204 nc: 248661 enctime: 1.57
+encoding rcpsp/j30.sm/j3041_8.sm nv: 72452 nc: 157201 enctime: 1.00
+c File: j3041_8.smnaivebi5.wcnf
+c optimal
+c final solution cost: 87
+c CPU time: 13.889178
+s OPTIMUM FOUND
+
+c File: j3041_8.smbi5.wcnf
+c optimal
+c final solution cost: 87
+c CPU time: 24.442179
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3041_9.sm nv: 91348 nc: 197133 enctime: 1.21
+encoding rcpsp/j30.sm/j3041_9.sm nv: 74638 nc: 160833 enctime: 1.03
+c File: j3041_9.smnaivebi5.wcnf
+c optimal
+c final solution cost: 92
+c CPU time: 3.553167
+s OPTIMUM FOUND
+
+c File: j3041_9.smbi5.wcnf
+c optimal
+c final solution cost: 92
+c CPU time: 3.386433
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j304_1.sm nv: 24310 nc: 58159 enctime: 0.38
+encoding rcpsp/j30.sm/j304_1.sm nv: 8500 nc: 19750 enctime: 0.08
+c File: j304_1.smnaivebi5.wcnf
+c optimal
+c final solution cost: 46
+c CPU time: 0.098251
+s OPTIMUM FOUND
+
+c File: j304_1.smbi5.wcnf
+c optimal
+c final solution cost: 46
+c CPU time: 0.019775
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_10.sm nv: 142020 nc: 298757 enctime: 1.86
+encoding rcpsp/j30.sm/j3042_10.sm nv: 60753 nc: 126953 enctime: 0.75
+c File: j3042_10.smnaivebi5.wcnf
+c optimal
+c final solution cost: 68
+c CPU time: 0.815778
+s OPTIMUM FOUND
+
+c File: j3042_10.smbi5.wcnf
+c optimal
+c final solution cost: 68
+c CPU time: 0.272934
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_1.sm nv: 151226 nc: 313174 enctime: 1.89
+encoding rcpsp/j30.sm/j3042_1.sm nv: 63770 nc: 131350 enctime: 0.77
+c File: j3042_1.smnaivebi5.wcnf
+c optimal
+c final solution cost: 58
+c CPU time: 0.377875
+s OPTIMUM FOUND
+
+c File: j3042_1.smbi5.wcnf
+c optimal
+c final solution cost: 58
+c CPU time: 0.138743
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_2.sm nv: 140275 nc: 288733 enctime: 1.74
+encoding rcpsp/j30.sm/j3042_2.sm nv: 68780 nc: 141003 enctime: 0.82
+c File: j3042_2.smnaivebi5.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.931990
+s OPTIMUM FOUND
+
+c File: j3042_2.smbi5.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.868970
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_3.sm nv: 148192 nc: 308843 enctime: 1.90
+encoding rcpsp/j30.sm/j3042_3.sm nv: 54730 nc: 113150 enctime: 0.60
+c File: j3042_3.smnaivebi5.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 1.872495
+s OPTIMUM FOUND
+
+c File: j3042_3.smbi5.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.564098
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_4.sm nv: 107240 nc: 221637 enctime: 1.29
+encoding rcpsp/j30.sm/j3042_4.sm nv: 57450 nc: 118287 enctime: 0.68
+c File: j3042_4.smnaivebi5.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 1.675414
+s OPTIMUM FOUND
+
+c File: j3042_4.smbi5.wcnf
+c optimal
+c final solution cost: 48
+c CPU time: 0.525620
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_5.sm nv: 145539 nc: 298846 enctime: 1.78
+encoding rcpsp/j30.sm/j3042_5.sm nv: 54693 nc: 111568 enctime: 0.65
+c File: j3042_5.smnaivebi5.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.412090
+s OPTIMUM FOUND
+
+c File: j3042_5.smbi5.wcnf
+c optimal
+c final solution cost: 52
+c CPU time: 0.106992
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_6.sm nv: 139608 nc: 291231 enctime: 1.79
+encoding rcpsp/j30.sm/j3042_6.sm nv: 63987 nc: 132800 enctime: 0.77
+c File: j3042_6.smnaivebi5.wcnf
+c optimal
+c final solution cost: 62
+c CPU time: 0.537461
+s OPTIMUM FOUND
+
+c File: j3042_6.smbi5.wcnf
+c optimal
+c final solution cost: 62
+c CPU time: 0.237958
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_bi_constraints/Log=5/heurj30.txt
+encoding rcpsp/j30.sm/j3042_7.sm nv: 133875 nc: 281914 enctime: 1.76
+encoding rcpsp/j30.sm/j3042_7.sm nv: 63495 nc: 132966 enctime: 0.79
+c File: j3042_7.smnaivebi5.wcnf
+c optimal
+c final solution cost: 58
+c CPU time: 1.090711
+s OPTIMUM FOUND
+
+c File: j3042_7.smbi5.wcnf
+c optimal
+c final solution cost: 58
+c CPU time: 1.562552
+s OPTIMUM FOUND
+
+

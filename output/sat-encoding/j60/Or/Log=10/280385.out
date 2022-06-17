@@ -1,0 +1,640 @@
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6031_9.sm nv: 2216625 nc: 4477393 enctime: 31.74
+encoding rcpsp/j60.sm/j6031_9.sm nv: 514257 nc: 1036369 enctime: 6.03
+c File: j6031_9.smnaiveor10.wcnf
+c optimal
+c final solution cost: 86
+c CPU time: 6.154654
+s OPTIMUM FOUND
+
+c File: j6031_9.smor10.wcnf
+c optimal
+c final solution cost: 86
+c CPU time: 0.979833
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j603_1.sm nv: 172161 nc: 403245 enctime: 4.20
+encoding rcpsp/j60.sm/j603_1.sm nv: 32571 nc: 74385 enctime: 0.49
+c File: j603_1.smnaiveor10.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 1.012821
+s OPTIMUM FOUND
+
+c File: j603_1.smor10.wcnf
+c optimal
+c final solution cost: 60
+c CPU time: 0.084696
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_10.sm nv: 2036880 nc: 4096256 enctime: 28.72
+encoding rcpsp/j60.sm/j6032_10.sm nv: 484380 nc: 972256 enctime: 5.65
+c File: j6032_10.smnaiveor10.wcnf
+c optimal
+c final solution cost: 77
+c CPU time: 4.416383
+s OPTIMUM FOUND
+
+c File: j6032_10.smor10.wcnf
+c optimal
+c final solution cost: 77
+c CPU time: 0.812824
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_1.sm nv: 2955810 nc: 5907392 enctime: 41.08
+encoding rcpsp/j60.sm/j6032_1.sm nv: 542190 nc: 1081532 enctime: 6.57
+c File: j6032_1.smnaiveor10.wcnf
+c optimal
+c final solution cost: 61
+c CPU time: 6.336343
+s OPTIMUM FOUND
+
+c File: j6032_1.smor10.wcnf
+c optimal
+c final solution cost: 61
+c CPU time: 0.942267
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_2.sm nv: 2117682 nc: 4265242 enctime: 29.93
+encoding rcpsp/j60.sm/j6032_2.sm nv: 635922 nc: 1278922 enctime: 8.12
+c File: j6032_2.smnaiveor10.wcnf
+c optimal
+c final solution cost: 102
+c CPU time: 4.784644
+s OPTIMUM FOUND
+
+c File: j6032_2.smor10.wcnf
+c optimal
+c final solution cost: 102
+c CPU time: 1.119871
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_3.sm nv: 2614044 nc: 5254154 enctime: 37.56
+encoding rcpsp/j60.sm/j6032_3.sm nv: 562160 nc: 1127610 enctime: 6.67
+c File: j6032_3.smnaiveor10.wcnf
+c optimal
+c final solution cost: 79
+c CPU time: 5.846915
+s OPTIMUM FOUND
+
+c File: j6032_3.smor10.wcnf
+c optimal
+c final solution cost: 79
+c CPU time: 0.974383
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_4.sm nv: 2622312 nc: 5233166 enctime: 35.81
+encoding rcpsp/j60.sm/j6032_4.sm nv: 476784 nc: 949670 enctime: 5.83
+c File: j6032_4.smnaiveor10.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 5.574729
+s OPTIMUM FOUND
+
+c File: j6032_4.smor10.wcnf
+c optimal
+c final solution cost: 55
+c CPU time: 0.793851
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_5.sm nv: 2134944 nc: 4292288 enctime: 29.77
+encoding rcpsp/j60.sm/j6032_5.sm nv: 470196 nc: 943404 enctime: 6.31
+c File: j6032_5.smnaiveor10.wcnf
+c optimal
+c final solution cost: 73
+c CPU time: 6.075438
+s OPTIMUM FOUND
+
+c File: j6032_5.smor10.wcnf
+c optimal
+c final solution cost: 73
+c CPU time: 0.843240
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_6.sm nv: 2074475 nc: 4170557 enctime: 28.81
+encoding rcpsp/j60.sm/j6032_6.sm nv: 580853 nc: 1165997 enctime: 7.56
+c File: j6032_6.smnaiveor10.wcnf
+c optimal
+c final solution cost: 90
+c CPU time: 4.463380
+s OPTIMUM FOUND
+
+c File: j6032_6.smor10.wcnf
+c optimal
+c final solution cost: 90
+c CPU time: 1.003670
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_7.sm nv: 2177835 nc: 4376356 enctime: 30.37
+encoding rcpsp/j60.sm/j6032_7.sm nv: 500577 nc: 1004038 enctime: 6.69
+c File: j6032_7.smnaiveor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 5.044183
+s OPTIMUM FOUND
+
+c File: j6032_7.smor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.853453
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_8.sm nv: 2115729 nc: 4236844 enctime: 28.77
+encoding rcpsp/j60.sm/j6032_8.sm nv: 541233 nc: 1082252 enctime: 7.02
+c File: j6032_8.smnaiveor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 4.591704
+s OPTIMUM FOUND
+
+c File: j6032_8.smor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.925019
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6032_9.sm nv: 2370786 nc: 4781145 enctime: 34.31
+encoding rcpsp/j60.sm/j6032_9.sm nv: 456408 nc: 917961 enctime: 5.51
+c File: j6032_9.smnaiveor10.wcnf
+c optimal
+c final solution cost: 71
+c CPU time: 5.505257
+s OPTIMUM FOUND
+
+c File: j6032_9.smor10.wcnf
+c optimal
+c final solution cost: 71
+c CPU time: 0.780660
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j603_2.sm nv: 182484 nc: 425116 enctime: 4.51
+encoding rcpsp/j60.sm/j603_2.sm nv: 35072 nc: 79720 enctime: 0.52
+c File: j603_2.smnaiveor10.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.974776
+s OPTIMUM FOUND
+
+c File: j603_2.smor10.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.076846
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_10.sm nv: 114521 nc: 299583 enctime: 3.97
+encoding rcpsp/j60.sm/j6033_10.sm nv: 32669 nc: 83667 enctime: 0.61
+c File: j6033_10.smnaiveor10.wcnf
+c optimal
+c final solution cost: 82
+c CPU time: 1.158199
+s OPTIMUM FOUND
+
+c File: j6033_10.smor10.wcnf
+c optimal
+c final solution cost: 82
+c CPU time: 0.183606
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_1.sm nv: 128737 nc: 344115 enctime: 4.63
+encoding rcpsp/j60.sm/j6033_1.sm nv: 42665 nc: 112115 enctime: 0.84
+c File: j6033_1.smnaiveor10.wcnf
+c optimal
+c final solution cost: 105
+c CPU time: 2.039169
+s OPTIMUM FOUND
+
+c File: j6033_1.smor10.wcnf
+c optimal
+c final solution cost: 105
+c CPU time: 0.269396
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_2.sm nv: 127794 nc: 348312 enctime: 4.73
+encoding rcpsp/j60.sm/j6033_2.sm nv: 35017 nc: 93368 enctime: 0.68
+c File: j6033_2.smnaiveor10.wcnf
+c optimal
+c final solution cost: 94
+c CPU time: 1.414033
+s OPTIMUM FOUND
+
+c File: j6033_2.smor10.wcnf
+c optimal
+c final solution cost: 94
+c CPU time: 0.144459
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_3.sm nv: 118422 nc: 300975 enctime: 3.77
+encoding rcpsp/j60.sm/j6033_3.sm nv: 31347 nc: 78000 enctime: 0.55
+c File: j6033_3.smnaiveor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 1.355986
+s OPTIMUM FOUND
+
+c File: j6033_3.smor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.138829
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_4.sm nv: 139258 nc: 362266 enctime: 4.82
+encoding rcpsp/j60.sm/j6033_4.sm nv: 36134 nc: 92010 enctime: 0.66
+c File: j6033_4.smnaiveor10.wcnf
+c optimal
+c final solution cost: 78
+c CPU time: 1.352009
+s OPTIMUM FOUND
+
+c File: j6033_4.smor10.wcnf
+c optimal
+c final solution cost: 78
+c CPU time: 0.192589
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_5.sm nv: 135780 nc: 374809 enctime: 5.16
+encoding rcpsp/j60.sm/j6033_5.sm nv: 39785 nc: 107601 enctime: 0.98
+c File: j6033_5.smnaiveor10.wcnf
+c optimal
+c final solution cost: 100
+c CPU time: 1.910569
+s OPTIMUM FOUND
+
+c File: j6033_5.smor10.wcnf
+c optimal
+c final solution cost: 100
+c CPU time: 0.281083
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_6.sm nv: 122778 nc: 330007 enctime: 4.41
+encoding rcpsp/j60.sm/j6033_6.sm nv: 29797 nc: 78000 enctime: 0.57
+c File: j6033_6.smnaiveor10.wcnf
+c optimal
+c final solution cost: 72
+c CPU time: 8.480655
+s OPTIMUM FOUND
+
+c File: j6033_6.smor10.wcnf
+c optimal
+c final solution cost: 72
+c CPU time: 0.209748
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_7.sm nv: 113202 nc: 312625 enctime: 4.37
+encoding rcpsp/j60.sm/j6033_7.sm nv: 28466 nc: 76593 enctime: 0.56
+c File: j6033_7.smnaiveor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 1.660972
+s OPTIMUM FOUND
+
+c File: j6033_7.smor10.wcnf
+c optimal
+c final solution cost: 76
+c CPU time: 0.195361
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_8.sm nv: 126876 nc: 329069 enctime: 4.19
+encoding rcpsp/j60.sm/j6033_8.sm nv: 34532 nc: 87737 enctime: 0.62
+c File: j6033_8.smnaiveor10.wcnf
+c optimal
+c final solution cost: 72
+c CPU time: 6.289470
+s OPTIMUM FOUND
+
+c File: j6033_8.smor10.wcnf
+c optimal
+c final solution cost: 72
+c CPU time: 0.379261
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6033_9.sm nv: 130720 nc: 347442 enctime: 4.58
+encoding rcpsp/j60.sm/j6033_9.sm nv: 43700 nc: 114320 enctime: 0.84
+c File: j6033_9.smnaiveor10.wcnf
+c optimal
+c final solution cost: 108
+c CPU time: 2.210929
+s OPTIMUM FOUND
+
+c File: j6033_9.smor10.wcnf
+c optimal
+c final solution cost: 108
+c CPU time: 0.278532
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j603_3.sm nv: 165600 nc: 408323 enctime: 4.65
+encoding rcpsp/j60.sm/j603_3.sm nv: 48760 nc: 118255 enctime: 0.96
+c File: j603_3.smnaiveor10.wcnf
+c optimal
+c final solution cost: 105
+c CPU time: 1.079682
+s OPTIMUM FOUND
+
+c File: j603_3.smor10.wcnf
+c optimal
+c final solution cost: 105
+c CPU time: 0.151629
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_10.sm nv: 144438 nc: 384345 enctime: 5.21
+encoding rcpsp/j60.sm/j6034_10.sm nv: 40299 nc: 105075 enctime: 0.76
+c File: j6034_10.smnaiveor10.wcnf
+c optimal
+c final solution cost: 92
+c CPU time: 1.387394
+s OPTIMUM FOUND
+
+c File: j6034_10.smor10.wcnf
+c optimal
+c final solution cost: 92
+c CPU time: 0.140597
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_1.sm nv: 134970 nc: 343181 enctime: 4.34
+encoding rcpsp/j60.sm/j6034_1.sm nv: 30266 nc: 74893 enctime: 0.52
+c File: j6034_1.smnaiveor10.wcnf
+c optimal
+c final solution cost: 72
+c CPU time: 1.413930
+s OPTIMUM FOUND
+
+c File: j6034_1.smor10.wcnf
+c optimal
+c final solution cost: 72
+c CPU time: 0.119490
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_2.sm nv: 143115 nc: 359475 enctime: 4.57
+encoding rcpsp/j60.sm/j6034_2.sm nv: 29580 nc: 72375 enctime: 0.34
+c File: j6034_2.smnaiveor10.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 1.261190
+s OPTIMUM FOUND
+
+c File: j6034_2.smor10.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.097770
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_3.sm nv: 144303 nc: 349060 enctime: 4.19
+encoding rcpsp/j60.sm/j6034_3.sm nv: 30355 nc: 71632 enctime: 0.34
+c File: j6034_3.smnaiveor10.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 1.048300
+s OPTIMUM FOUND
+
+c File: j6034_3.smor10.wcnf
+c optimal
+c final solution cost: 59
+c CPU time: 0.113433
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_4.sm nv: 147870 nc: 361511 enctime: 4.36
+encoding rcpsp/j60.sm/j6034_4.sm nv: 39060 nc: 93581 enctime: 0.65
+c File: j6034_4.smnaiveor10.wcnf
+c optimal
+c final solution cost: 83
+c CPU time: 0.999666
+s OPTIMUM FOUND
+
+c File: j6034_4.smor10.wcnf
+c optimal
+c final solution cost: 83
+c CPU time: 0.105298
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_5.sm nv: 133025 nc: 330955 enctime: 4.02
+encoding rcpsp/j60.sm/j6034_5.sm nv: 31875 nc: 77485 enctime: 0.54
+c File: j6034_5.smnaiveor10.wcnf
+c optimal
+c final solution cost: 74
+c CPU time: 0.975708
+s OPTIMUM FOUND
+
+c File: j6034_5.smor10.wcnf
+c optimal
+c final solution cost: 74
+c CPU time: 0.088113
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_6.sm nv: 149644 nc: 386918 enctime: 5.13
+encoding rcpsp/j60.sm/j6034_6.sm nv: 37620 nc: 95066 enctime: 0.69
+c File: j6034_6.smnaiveor10.wcnf
+c optimal
+c final solution cost: 77
+c CPU time: 1.300575
+s OPTIMUM FOUND
+
+c File: j6034_6.smor10.wcnf
+c optimal
+c final solution cost: 77
+c CPU time: 0.133473
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_7.sm nv: 145515 nc: 362087 enctime: 4.52
+encoding rcpsp/j60.sm/j6034_7.sm nv: 32930 nc: 79992 enctime: 0.56
+c File: j6034_7.smnaiveor10.wcnf
+c optimal
+c final solution cost: 71
+c CPU time: 1.198717
+s OPTIMUM FOUND
+
+c File: j6034_7.smor10.wcnf
+c optimal
+c final solution cost: 71
+c CPU time: 0.120395
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_8.sm nv: 136880 nc: 325856 enctime: 3.66
+encoding rcpsp/j60.sm/j6034_8.sm nv: 30208 nc: 70250 enctime: 0.47
+c File: j6034_8.smnaiveor10.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 1.075869
+s OPTIMUM FOUND
+
+c File: j6034_8.smor10.wcnf
+c optimal
+c final solution cost: 63
+c CPU time: 0.085785
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6034_9.sm nv: 131200 nc: 330331 enctime: 4.10
+encoding rcpsp/j60.sm/j6034_9.sm nv: 31160 nc: 76571 enctime: 0.53
+c File: j6034_9.smnaiveor10.wcnf
+c optimal
+c final solution cost: 70
+c CPU time: 1.251227
+s OPTIMUM FOUND
+
+c File: j6034_9.smor10.wcnf
+c optimal
+c final solution cost: 70
+c CPU time: 0.120949
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j603_4.sm nv: 186592 nc: 437220 enctime: 4.64
+encoding rcpsp/j60.sm/j603_4.sm nv: 45696 nc: 105182 enctime: 0.69
+c File: j603_4.smnaiveor10.wcnf
+c optimal
+c final solution cost: 81
+c CPU time: 1.003789
+s OPTIMUM FOUND
+
+c File: j603_4.smor10.wcnf
+c optimal
+c final solution cost: 81
+c CPU time: 0.114388
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6035_10.sm nv: 167936 nc: 405852 enctime: 4.89
+encoding rcpsp/j60.sm/j6035_10.sm nv: 33280 nc: 78417 enctime: 0.54
+c File: j6035_10.smnaiveor10.wcnf
+c optimal
+c final solution cost: 61
+c CPU time: 1.086792
+s OPTIMUM FOUND
+
+c File: j6035_10.smor10.wcnf
+c optimal
+c final solution cost: 61
+c CPU time: 0.086090
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6035_1.sm nv: 180186 nc: 444709 enctime: 5.58
+encoding rcpsp/j60.sm/j6035_1.sm nv: 40211 nc: 97109 enctime: 0.68
+c File: j6035_1.smnaiveor10.wcnf
+c optimal
+c final solution cost: 78
+c CPU time: 1.220806
+s OPTIMUM FOUND
+
+c File: j6035_1.smor10.wcnf
+c optimal
+c final solution cost: 78
+c CPU time: 0.100662
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6035_2.sm nv: 190320 nc: 469222 enctime: 5.87
+encoding rcpsp/j60.sm/j6035_2.sm nv: 41080 nc: 98992 enctime: 0.69
+c File: j6035_2.smnaiveor10.wcnf
+c optimal
+c final solution cost: 75
+c CPU time: 1.354624
+s OPTIMUM FOUND
+
+c File: j6035_2.smor10.wcnf
+c optimal
+c final solution cost: 75
+c CPU time: 0.110501
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6035_3.sm nv: 155601 nc: 388183 enctime: 4.88
+encoding rcpsp/j60.sm/j6035_3.sm nv: 44064 nc: 108004 enctime: 0.76
+c File: j6035_3.smnaiveor10.wcnf
+c optimal
+c final solution cost: 89
+c CPU time: 1.280199
+s OPTIMUM FOUND
+
+c File: j6035_3.smor10.wcnf
+c optimal
+c final solution cost: 89
+c CPU time: 0.188745
+s OPTIMUM FOUND
+
+
+rcpsp/heur_output_or_constraints/Log=10/heurj60.txt
+encoding rcpsp/j60.sm/j6035_4.sm nv: 159896 nc: 384165 enctime: 4.49
+encoding rcpsp/j60.sm/j6035_4.sm nv: 33902 nc: 79638 enctime: 0.54
+c File: j6035_4.smnaiveor10.wcnf
+c optimal
+c final solution cost: 64
+c CPU time: 1.033240
+s OPTIMUM FOUND
+
+c File: j6035_4.smor10.wcnf
+c optimal
+c final solution cost: 64
+c CPU time: 0.092226
+s OPTIMUM FOUND
+
+
